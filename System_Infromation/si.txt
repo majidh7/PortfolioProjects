@@ -1,1 +1,2 @@
-
+I'm trying to connect to a SQL Server database and insert some system performance data into a table called Performance,
+then i connent Microsoft Power Bi to SQL Server and create a dashboard to Visualize the Data.
