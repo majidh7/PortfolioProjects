@@ -70,3 +70,10 @@ The performance of all tested models was consistently high, with CatBoost and SV
 
 **Key Insight:** The high performance across all tree-based and linear models indicates that the provided features are highly predictive of personality type, with minimal noise.
 
+## 📬 Contact
+Created by **Majid hasannejad**  
+📧 Email: [majjidh7@outlook.com]  
+🌐 GitHub: [https://github.com/majidh7]  
+💼 LinkedIn: [https://www.linkedin.com/in/majidh7]
+
+
